@@ -1,0 +1,17 @@
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\bin\Debug\net8.0-windows\PaintApplication_Forms.exe
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\bin\Debug\net8.0-windows\PaintApplication_Forms.deps.json
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\bin\Debug\net8.0-windows\PaintApplication_Forms.runtimeconfig.json
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\bin\Debug\net8.0-windows\PaintApplication_Forms.dll
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\bin\Debug\net8.0-windows\PaintApplication_Forms.pdb
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.PaintApplication_Form.resources
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.csproj.GenerateResource.cache
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.AssemblyInfoInputs.cache
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.AssemblyInfo.cs
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.csproj.CoreCompileInputs.cache
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.dll
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\refint\PaintApplication_Forms.dll
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.pdb
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.genruntimeconfig.cache
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\ref\PaintApplication_Forms.dll
+G:\Studies\PaintApplication_Forms\PaintApplication_Forms\obj\Debug\net8.0-windows\PaintApplication_Forms.Properties.Resources.resources
